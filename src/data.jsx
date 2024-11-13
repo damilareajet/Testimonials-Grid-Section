@@ -1,7 +1,7 @@
 export const data = [
 {
     title: 'Daniel Clifford',
-    image: 'src/assets/images/image-daniel.jpg',
+    image: 'https://res.cloudinary.com/dqhcroiw8/image/upload/v1731517300/Testimonials-Grid%20Section/image-daniel_yyckob.jpg',
     value: 'Verified Graduate',
     svg: (
         <svg
@@ -32,7 +32,7 @@ export const data = [
     }},
     {
     title: 'Jonathan Walters',
-    image: 'src/assets/images/image-jonathan.jpg', 
+    image: 'https://res.cloudinary.com/dqhcroiw8/image/upload/v1731517301/Testimonials-Grid%20Section/image-jonathan_hyenrf.jpg', 
     value: 'Verified Graduate',
     header: 'The team was very supportive and kept me motivated.',
     testimonial: ` 
@@ -47,7 +47,7 @@ export const data = [
     },
     {
     title: 'Kira Whittle',
-    image: 'src/assets/images/image-kira.jpg', 
+    image: 'https://res.cloudinary.com/dqhcroiw8/image/upload/v1731517301/Testimonials-Grid%20Section/image-kira_i8jqfb.jpg', 
     value: 'Verified Graduate',
     header: 'Such a life-changing experience. Highly recommended!',
     testimonial: `
@@ -68,7 +68,7 @@ export const data = [
     },
     {
     title: 'Jeanette Harmon',
-    image: 'src/assets/images/image-jeanette.jpg', 
+    image: 'https://res.cloudinary.com/dqhcroiw8/image/upload/v1731517300/Testimonials-Grid%20Section/image-jeanette_cwmlse.jpg', 
     value: 'Verified Graduate',
     header: 'An overall wonderful and rewarding experience.',
     testimonial: `
@@ -83,7 +83,7 @@ export const data = [
     },
     {
     title: 'Patrick Abrams',
-    image: 'src/assets/images/image-patrick.jpg', 
+    image: 'https://res.cloudinary.com/dqhcroiw8/image/upload/v1731517301/Testimonials-Grid%20Section/image-patrick_vsh2io.jpg', 
     value: 'Verified Graduate',
     header: 'Awesome teaching support from TAs who did the bootcamp themselves. Getting guidance from them and learning from their experiences was easy.',
     testimonial: ` 
